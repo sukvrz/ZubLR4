@@ -1,0 +1,14 @@
+C:\вера\Lab4\Examples\ex001\bin\Debug\net9.0\ex001.exe
+C:\вера\Lab4\Examples\ex001\bin\Debug\net9.0\ex001.deps.json
+C:\вера\Lab4\Examples\ex001\bin\Debug\net9.0\ex001.runtimeconfig.json
+C:\вера\Lab4\Examples\ex001\bin\Debug\net9.0\ex001.dll
+C:\вера\Lab4\Examples\ex001\bin\Debug\net9.0\ex001.pdb
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\ex001.AssemblyInfoInputs.cache
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\ex001.AssemblyInfo.cs
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\ex001.csproj.CoreCompileInputs.cache
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\ex001.dll
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\refint\ex001.dll
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\ex001.pdb
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\ex001.genruntimeconfig.cache
+C:\вера\Lab4\Examples\ex001\obj\Debug\net9.0\ref\ex001.dll
